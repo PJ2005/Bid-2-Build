@@ -1,36 +1,16 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Home Intruder Detection System
 
-## Getting Started
+This repository contains the entire hardware setup and code in a presentable format for the prototype built during the **Bid 2 Build** competition which secured our team the 2nd place.
 
-First, run the development server:
+## Overview
+- **Bid 2 Build** was a competition conducted by Potential - Robotics Club of SNUC which involved bidding on components with the limited credits available and making the best use of the components secured by bidding in a limited time frame.
+- With the components secured by our team, we were able to build a low-power Home Intruder Detection system.
+- The prototype involved the use of ESP32 microcontroller, PIR Sensor, Photoresistor Sensor and a buzzer for alert
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Disclaimer
+- This is a static website and does not reflect the working when the actual microcontroller is connected
+- This web page is just for representational and presentation purposes
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Team
+- [Pratham Jain](https://github.com/PJ2005)
+- [Rithwik Yaramaneni](https://github.com/ravenclawz1)
